@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bf6957a08877e48ad26d49fa83ceaa, type: 3}
+  m_Name: Legend
+  m_EditorClassIdentifier: 
+  FishRarityList:
+  - {fileID: 11400000, guid: b6fc6186035e4334c9129ca51eefb846, type: 2}
+  - {fileID: 11400000, guid: 3368e185c5265a540ab0991592d42b90, type: 2}
+  - {fileID: 11400000, guid: 68d20e3990058714b85f4c9df6925b49, type: 2}
